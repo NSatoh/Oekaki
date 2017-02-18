@@ -1,6 +1,9 @@
 # Oekaki
-Python codes for generating SVG
+Junk-room for my pictures.
 
+SVGやTeX(tikz)やPostScriptで作ったお絵かきを置いておく場所．
 
-PythonでSVGを描く練習．
+Pythonで作ったり，
+直接手で描いたり，
+大昔に作ったひまわりスクリプト使ったり．
 
